@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Welcome to OptimusPrime-45's Github" width="100%"/>
+  <img src="assets/banner.jpg" alt="Welcome to OptimusPrime-45's Github" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/YOUR-USERNAME"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/></a>
-  <a href="https://codeforces.com/profile/YOUR-USERNAME"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces"/></a>
-  <a href="https://www.codechef.com/users/YOUR-USERNAME"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" alt="CodeChef"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/></a>
+  <a href="https://neerajpandey.me"><img src="assets/icon.png" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/neeraj-pandey-3966b6374/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/OptimusPrime-45/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/OptimusPrime-45"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces"/></a>
+  <a href="mailto:neerajpandey8698552285@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/></a>
 </p>
 
 <h3 align="center"><img src="https://api.iconify.design/mdi/card-account-details-outline.svg?color=%238b949e" height="18" alt=""/> About me</h3>
@@ -16,18 +16,17 @@
   <tr>
     <td width="62%" valign="middle">
 
-Hello There! I'm ***YOUR NAME***, a [Computer Science] student. I enjoy learning new technologies and solving problems on LeetCode and Codeforces. Now I'm working on some little and fun projects to put in practice my knowledge about JavaScript, React, Node.js and MongoDB.
+Hello There! I'm ***Neeraj Pandey***, a AI&DS student. I enjoy learning new technologies and solving problems on LeetCode. Now I'm working on some little and fun projects to put in practice my knowledge about JavaScript, React, Node.js and MongoDB.
 
 <p align="center">
-  <b>🏛 Studying at [Your University]</b><br/>
-  <b>💻 Full Stack Developer (MERN)</b><br/>
-  <b>🚀 Building Expense Tracker, Project Management System and more</b><br/>
-  <b>🌱 Currently learning [Something new]</b>
+  <b>💻 Full Stack Developer </b><br/>
+  <b>🚀 Building Asset Flow, Project Management System and more</b><br/>
+  <b>🌱 Currently learning DSA</b>
 </p>
 
 </td>
     <td width="38%" align="center" valign="middle">
-      <img src="assets/astronaut.svg" width="100%" alt="Astronaut"/>
+      <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="100%" alt="Astronaut"/>
     </td>
   </tr>
 </table>
