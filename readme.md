@@ -62,7 +62,7 @@ Hello There! I'm ***Neeraj Pandey***, a AI&DS student. I enjoy learning new tech
 <h3 align="center"><img src="https://api.iconify.design/mdi/chart-line.svg?color=%238b949e" height="18" alt=""/> Statistics</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OptimusPrime-45&show_icons=true&custom_title=OptimusPrime-45%27s%20GitHub%20Stats&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&hide_border=false" alt="GitHub Stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OptimusPrime-45&theme=github_dark" alt="GitHub Stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=OptimusPrime-45&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
