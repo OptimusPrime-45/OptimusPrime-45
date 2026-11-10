@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://neerajpandey.me"><img src="assets/icon.png" alt="Portfolio" width="50" height="50"/></a>
+  <a href="https://neerajpandey.me"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/neeraj-pandey-3966b6374/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/OptimusPrime-45/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/></a>
   <a href="https://codeforces.com/profile/OptimusPrime-45"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces"/></a>
@@ -47,10 +47,22 @@ Hello There! I'm ***Neeraj Pandey***, a AI&DS student. I enjoy learning new tech
   <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" alt="Postman"/>
 </p>
 
+
+<h2 align="center">👾 SPACE INVADERS</h2>
+
+<p align="center">
+  <img
+    src="assets/space-invaders.gif"
+    width="850"
+    alt="GitHub Space Invaders Contribution"
+  />
+</p>
+
+
 <h3 align="center"><img src="https://api.iconify.design/mdi/chart-line.svg?color=%238b949e" height="18" alt=""/> Statistics</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OptimusPrime-45&show_icons=true&include_all_commits=true&count_private=true&custom_title=OptimusPrime-45%27s%20GitHub%20Stats&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&hide_border=false" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OptimusPrime-45&show_icons=true&custom_title=OptimusPrime-45%27s%20GitHub%20Stats&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&hide_border=false" alt="GitHub Stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=OptimusPrime-45&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
